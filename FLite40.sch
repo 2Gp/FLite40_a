@@ -2144,4 +2144,69 @@ F 3 "~" H 800 3600 50  0001 C CNN
 	1    800  3600
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector:AVR-ISP-6 J1
+U 1 1 60637A12
+P 3400 1350
+F 0 "J1" H 3121 1446 50  0000 R CNN
+F 1 "AVR-ISP-6" H 3121 1355 50  0000 R CNN
+F 2 "" V 3150 1400 50  0001 C CNN
+F 3 " ~" H 2125 800 50  0001 C CNN
+	1    3400 1350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0117
+U 1 1 606382CF
+P 3500 850
+F 0 "#PWR0117" H 3500 700 50  0001 C CNN
+F 1 "+5V" H 3515 1023 50  0000 C CNN
+F 2 "" H 3500 850 50  0001 C CNN
+F 3 "" H 3500 850 50  0001 C CNN
+	1    3500 850 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0118
+U 1 1 606387FC
+P 3500 1750
+F 0 "#PWR0118" H 3500 1500 50  0001 C CNN
+F 1 "GND" H 3505 1577 50  0000 C CNN
+F 2 "" H 3500 1750 50  0001 C CNN
+F 3 "" H 3500 1750 50  0001 C CNN
+	1    3500 1750
+	-1   0    0    -1  
+$EndComp
+Text GLabel 1150 1050 2    50   Input ~ 0
+RESET
+Text GLabel 3000 1450 0    50   Input ~ 0
+RESET
+Wire Wire Line
+	2600 1200 2600 1150
+Wire Wire Line
+	2600 1150 3000 1150
+Wire Wire Line
+	2600 1300 2600 1250
+Wire Wire Line
+	2600 1250 3000 1250
+Wire Wire Line
+	2600 1400 2600 1350
+Wire Wire Line
+	2600 1350 3000 1350
+Text Notes 7250 4850 0    50   ~ 0
+2.75U
+Text Notes 8350 4850 0    50   ~ 0
+1.25U
+Text Notes 6150 4850 0    50   ~ 0
+1.25U
+Text Notes 3950 4850 0    50   ~ 0
+1.25U
+Text Notes 4500 4200 0    50   ~ 0
+1.75U
+Text Notes 10550 4200 0    50   ~ 0
+1.25U
+Text Notes 10000 3550 0    50   ~ 0
+1.75U
+Text Notes 3950 3550 0    50   ~ 0
+1.25U
 $EndSCHEMATC
