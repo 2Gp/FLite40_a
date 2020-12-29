@@ -24,7 +24,7 @@ VORTEX COREもキーボード本体かPC側(あるいは両方)を執念深く�
 通常時<BR>
 <img src=img/kmap1.png><BR>
 Fnキーとのコンビネーション時<BR>
-<img src=img/kamp2.png><BR>
+<img src=img/kmap2.png><BR>
 <BR>
 ほぼ全てのキーにおいて『Fn』『Sfiht』とのコンビネーションを片手だけで行える。<BR>
 ・接続中、右下のインジケーターが光る、入力モードを切り替えると点滅状態になる<BR>
