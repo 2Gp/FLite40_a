@@ -1,4 +1,5 @@
 ！ 2021/2/8 … 試作品が出来ました！(現在使用中) <BR>
+<img src=img/ssk1.png><BR>
 <BR>
 <img src=img/logo.png><BR>
 ※まだまだ執筆途中<BR>
