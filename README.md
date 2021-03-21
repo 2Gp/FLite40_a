@@ -1,4 +1,4 @@
-<img src=img/logo.png><BR>
+<img src=img/logo1.png><BR>
 <B>FLite40</B>は<B>日本語キーボードユーザー向け</B>の<B>超コンパクトキーボード</B>です。<BR>
 現在<B>"FLite40α"</B>開発が進行中です。<BR>
 <BR>
